@@ -10,7 +10,7 @@ class Solution
         {
             x=1/x;//flipping the integer if power is negative
             if(n==Integer.MIN_VALUE)
-            {//this case is useful for making stack not to overflow
+            {//this case is mandatory so that value does not overflow from the integer range
                 return x*myPow(x,Integer.MAX_VALUE);
             }
             n=-n;
