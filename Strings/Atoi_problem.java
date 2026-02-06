@@ -22,11 +22,11 @@ class Solution {
         {//if the character is between 0 and 9;
             answer = answer * 10 + (s.charAt(i)-'0');
             if(answer > max && isnegative == false)
-            {
+            {//if the answer exceeds max then return max;
                 return max;
             }
             if((-1* answer<min) && isnegative)
-            {
+            {//if the answer is less than min then return min;
                 return min;
             }
             i++;
