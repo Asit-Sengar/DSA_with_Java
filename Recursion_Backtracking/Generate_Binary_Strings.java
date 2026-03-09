@@ -11,7 +11,7 @@ class Main {
                 temp.append(sb.charAt(i));// for making the temp stringbuilder;
             }
             answer.add(temp.toString());// adding the temp stringbuilder to answer list;
-            return answer;
+            return answer;//now we have to return that function call;
         }
         sb.append('0');
         helper(index + 1, answer, length, sb);
