@@ -1,3 +1,6 @@
+//the main idea here is to create an prefix array
+//now if have to find the xor of 2to 3 then i will do the xor of (0^1^2^3) ^ (0^1)
+//this will give me the required result
 class Solution {
     public static int[] xorQueries(int[] arr, int[][] queries) {
         int answer[] = new int[queries.length];
