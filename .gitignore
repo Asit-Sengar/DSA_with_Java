@@ -1,0 +1,8 @@
+# Compiled Java
+*.class
+
+# Rough scratch files
+rough_files/
+
+# VS Code
+.vscode/
