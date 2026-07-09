@@ -1,12 +1,23 @@
 # DSA with Java
 
-Hi, I am **Asit Sengar**. This repository is my personal journey of learning **Data Structures and Algorithms with Java**.
+Welcome to my personal repository for learning and practicing Data Structures and Algorithms using Java.
 
-Here, I practice DSA concepts, solve problems, improve my logic, and track my progress as I grow more confident with Java problem solving.
+This space reflects my journey of solving problems, strengthening my logic, and improving my Java programming skills through consistent practice and continuous learning.
 
 ---
 
-## What I Am Learning
+## 🌟 Overview
+
+This repository is dedicated to:
+
+- Building strong foundations in DSA
+- Solving problems with clear and efficient Java solutions
+- Improving problem-solving confidence and coding discipline
+- Tracking progress over time as a learning log
+
+---
+
+## 📚 Topics Covered
 
 - Arrays
 - Binary Search
@@ -21,21 +32,31 @@ Here, I practice DSA concepts, solve problems, improve my logic, and track my pr
 
 ---
 
-## My Goal
+## 🧠 Learning Goals
 
-The goal of this repository is to build strong DSA fundamentals, write cleaner Java code, and stay consistent with practice.
+The main objective of this repository is to:
 
-I am using this repo as a learning log, so every solution here is part of my progress.
-
----
-
-## Tech Stack
-
-- **Language:** Java
-- **Focus:** Data Structures and Algorithms
+- Understand core DSA concepts deeply
+- Write cleaner and more optimized Java code
+- Practice regularly and stay consistent
+- Turn problem-solving into a strong habit
 
 ---
 
-## Author
+## 🗂️ Repository Structure
 
-**Asit Sengar**
+Each folder is organized by topic, and each file contains a Java solution focused on logic, implementation, and clarity.
+
+---
+
+## ⚙️ Tech Stack
+
+- Language: Java
+- Focus: Data Structures and Algorithms
+- Style: Practice-oriented and beginner-friendly problem solving
+
+---
+
+## 👨‍💻 About the Author
+
+Built and maintained by Asit Sengar
