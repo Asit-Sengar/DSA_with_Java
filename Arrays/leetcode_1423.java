@@ -5,6 +5,8 @@
 class Solution {
     public static int maxScore(int[] cardPoints, int k) {
         int answer = 0;
+        int left_sum = 0;
+        i
         return answer;
     }
     // public static void main(String[] args) {
