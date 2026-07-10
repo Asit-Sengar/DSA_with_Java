@@ -1,3 +1,9 @@
+/*
+    first i will keep track of both count_5 and count_10 denominaitons
+    if the denomination is 5 then accept it
+    if denomination is 10 and i have count_5 > 1 then return it
+    if denomination is 20 and i have count_5 > 3 then return it
+ */
 class Solution {
     public static boolean lemonadeChange(int[] bills) {
         int count_5 = 0;
