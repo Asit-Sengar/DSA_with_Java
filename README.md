@@ -38,8 +38,6 @@ This space reflects my journey of:
 - 📈 Mastering Java programming techniques
 - 📝 Documenting progress through consistent practice and continuous learning
 
-> _"Code is like humor. When you have to explain it, it's bad." – Cory House_
-
 ---
 
 ## 📚 Topics Covered
@@ -149,9 +147,8 @@ I'm always open to connecting with fellow developers, learners, and tech enthusi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-sengar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-sengar-743595272)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 **Let's Connect!** 💬
 
@@ -174,7 +171,5 @@ This repository represents my continuous journey of mastering Data Structures an
 <div align="center">
 
 ⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
-
-_Last Updated: 2026_ | Made with ❤️ for the DSA Community
 
 </div>
