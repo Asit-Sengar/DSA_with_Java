@@ -6,3 +6,6 @@ rough_files/
 
 # VS Code
 .vscode/
+
+# Ignore Solution.java files in any folder
+Solution.java
