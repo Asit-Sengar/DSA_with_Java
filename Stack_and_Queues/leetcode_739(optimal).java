@@ -1,4 +1,3 @@
-
 /*
     i will maintain the indeces order 
     if any number is smaller than the stack.peek() remove them until the number is greater  
