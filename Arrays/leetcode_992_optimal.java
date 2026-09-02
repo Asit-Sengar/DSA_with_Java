@@ -1,5 +1,4 @@
 import java.util.HashMap;
-import java.util.Map;
 
 class Solution {
     public static int helper(int[] nums, int k) {
