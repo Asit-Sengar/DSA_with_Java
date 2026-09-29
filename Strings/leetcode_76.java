@@ -1,8 +1,17 @@
+
+/*
+    the main idea here is that we will make a hashmap for string t
+    now i shall try to maintain a window and expand it untill it includes all the 
+    characters.
+    now i will try to shrink the window untill it contains all the characters
+    update the start index
+    make a string from start to start +  length and return it. 
+ */
 import java.util.HashMap;
 
 class Solution {
     public static boolean contains(HashMap<Character, Integer> maps, HashMap<Character, Integer> mapt) {
-        // now i have to compare these two hashmaps;
+        // this functin is for comparing two hashmaps
         for (Character c : mapt.keySet()) {
             if (!maps.containsKey(c) || maps.get(c) < mapt.get(c)) {
                 return false;
