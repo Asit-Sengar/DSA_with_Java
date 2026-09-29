@@ -6,7 +6,7 @@
     now i will try to shrink the window untill it contains all the characters
     update the start index
     make a string from start to start +  length and return it. 
- */
+*/
 import java.util.HashMap;
 
 class Solution {
