@@ -1,3 +1,6 @@
+/*
+    just make the list
+ */
 class Solution {
     List<List<Integer>>answer = new ArrayList<>();//global variable
     public void helper(TreeNode root , int level)
