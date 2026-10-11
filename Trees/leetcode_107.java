@@ -1,5 +1,5 @@
 /*
-    just make the list
+    just make the list and then reverse the list and upload it
  */
 class Solution {
     List<List<Integer>>answer = new ArrayList<>();//global variable
