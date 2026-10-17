@@ -1,3 +1,11 @@
+
+/*
+    first we will go to the extreme left 
+    add its value to the list 
+    return back to its root value 
+    add its value to the list
+    and go the right subtree
+ */
 import java.util.ArrayList;
 
 class Solution {
