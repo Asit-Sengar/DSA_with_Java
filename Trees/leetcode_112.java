@@ -1,3 +1,8 @@
+/*
+    i am maintaining sum at each node
+    if sum == target sum 
+    return true;
+ */
 class Solution {
     boolean answer = false;
 
