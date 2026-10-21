@@ -8,9 +8,12 @@ class Solution {
             return;
         }
         list.add(root.val);
+
         if ((sum + root.val == targetSum && root.left == null && root.right == null)) {// we found the list, add it to
                                                                                        // the answer
             answer.add(new ArrayList<>(list));
+            // we have to remove this element before moving to the
+            // next element
             list.remove(list.size() - 1);
             return;
         }
