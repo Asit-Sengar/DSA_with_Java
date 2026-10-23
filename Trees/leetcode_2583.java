@@ -22,8 +22,7 @@ class Solution {
     }
 
     public long kthLargestLevelSum(TreeNode root, int k) {
-        int level = 0;
-        helper(root, level);// this shall modify the list
+        helper(root, 0);// this shall modify the list
         if (list.size() < k) {
             return -1;
         }
