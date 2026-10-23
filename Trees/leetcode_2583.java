@@ -1,3 +1,8 @@
+
+//first we will prepare the list according to level sum
+//make an array from the list elements
+//sort the array
+//return the arr[arr.length - k] element
 import java.util.ArrayList;
 
 class Solution {
