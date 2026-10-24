@@ -1,3 +1,10 @@
+
+/*
+    create a list of all sum according to their levels
+    iterate in the array and find the max sum
+    store the index of that max sum
+    return that index
+ */
 import java.util.ArrayList;
 
 class Solution {
