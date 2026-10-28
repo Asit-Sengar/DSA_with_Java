@@ -1,3 +1,8 @@
+/*
+    we have to traverse the whole tree and try to find any
+    irregularity in tree with respect to unequal value or 
+    null node
+ */
 class Solution {
     boolean answer = true;
 
