@@ -1,4 +1,10 @@
-
+/*
+    first we will go to every index 
+    then we will start iterating circularly from that index 
+    if we encounter any element greater than the element on which we are at
+    we will update that element in the final array
+    return final array
+ */
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int temp[] = new int[nums.length];
