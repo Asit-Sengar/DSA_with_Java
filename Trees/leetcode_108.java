@@ -1,3 +1,8 @@
+/*
+    first i will provide the start and end index to each helper function
+    then i  will recursively build the tree around it
+    we will find the mid index and build our tree around it
+ */
 class Solution {
     public TreeNode helper_left(int[] nums, int start, int end) {
         if (start > end) {// base case
