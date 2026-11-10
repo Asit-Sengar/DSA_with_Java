@@ -1,5 +1,4 @@
 class Solution {
-    boolean answer = true;// global variable
 
     public boolean helper(TreeNode left, TreeNode right) {
         if (left == null && right == null) {// base case
