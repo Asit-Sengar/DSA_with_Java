@@ -1,3 +1,7 @@
+/*
+    we are trying to invert the left and right subtree
+    and then recursively invert smaller and smaller trees
+*/
 class Solution {
     public void helper(TreeNode root) {
         if (root == null) {// base case;
