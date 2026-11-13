@@ -2,6 +2,7 @@
     we are trying to invert the left and right subtree
     and then recursively invert smaller and smaller trees
     first we will invert the upper tree 
+    and then we will move to the smaller trees recursively
 */
 class Solution {
     public void helper(TreeNode root) {
