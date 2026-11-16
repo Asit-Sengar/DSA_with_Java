@@ -23,7 +23,14 @@ class Solution {
         if (root == null) {
             return;
         }
-
+        if (level % 2 == 0 && root.left != null && root.right != null)// if the level is odd
+        {// now i have to swap the left and right values;
+            int temp = root.left.val;
+            root.left.val = root.right.val;
+            root.right.val = temp;
+        }
+        helper(root.left, level + 1);
+        helper(root.right, level + 1);
     }
 
     public TreeNode reverseOddLevels(TreeNode root) {
