@@ -1,4 +1,5 @@
 //we will reverse the values of farthest points
+//and then we will move recursively
 class Solution {
     public void helper(int level, TreeNode left, TreeNode right) {
         if (left == null || right == null) {
