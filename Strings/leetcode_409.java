@@ -1,4 +1,5 @@
 
+//we could have used hashmap also
 class Solution {
     public int longestPalindrome(String s) {
         int[] freq = new int[128];
