@@ -1,3 +1,10 @@
+/*
+    we are only trying to find the left max
+    and right max and then calculate the min 
+    among them and add it to the current value o
+    of height array
+    return answer
+ */
 class Solution {
     public int trap(int[] height) {
         int answer = 0;
